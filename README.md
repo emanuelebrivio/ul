@@ -1,4 +1,4 @@
-## User Language 
+## User Language JS
 *Get the first accepted Browser language*
 
 ---
@@ -9,7 +9,7 @@ Include ul.js in your HTML
 
     <script src='ul.js'></script>
     
-Then access the ul() function whenever you want
+Then access the UL function whenever you want
 
     console.log('User Language', ul());
 
