@@ -9,9 +9,9 @@ Include ul.js in your HTML
 
     <script src='ul.js'></script>
     
-Then access the window.ul property whenever you want
+Then access the ul() function whenever you want
 
-    console.log('User Language', windows.ul);
+    console.log('User Language', ul());
 
 ---
 
